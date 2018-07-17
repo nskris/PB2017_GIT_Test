@@ -1,8 +1,0 @@
-﻿Save Format v3.0(19990112)
-@begin Libraries
- "app_first.pbl" "";
-@end;
-@begin Objects 
- "app_first.sra" "app_first.pbl";
- "build.srj" "app_first.pbl";
-@end;
