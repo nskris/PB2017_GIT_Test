@@ -34,7 +34,7 @@ end on
 type st_1 from statictext within w_first
 integer x = 773
 integer y = 436
-integer width = 402
+integer width = 475
 integer height = 64
 integer textsize = -10
 integer weight = 400
@@ -44,7 +44,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Test"
+string text = "I think Succeeded"
 boolean focusrectangle = false
 end type
 
