@@ -33,5 +33,6 @@ destroy(message)
 end on
 
 event open;open(w_first)
+//Message
 end event
 
